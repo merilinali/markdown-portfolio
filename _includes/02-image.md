@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Coffee Lover](https://octodex.github.com/images/femalecodertocat.png)
